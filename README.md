@@ -1,20 +1,12 @@
-IT License
+Markdown Test File
+See the raw source of TEST.md for the deets! (this is the test file rendered)
 
-Copyright (c) 2017 Max Stoiber
+This repo contains a markdown file which covers a lot of the syntax. We use it for testing our markdown support.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-hello 
-testing final checking
-edited final 
-want to know final edited work
-it is working or not.
-*88*****
-&&&&&
-ertertertert
-12345665456644
-ddkfjdk12390867
+Inspiration
+The file is based on the source of John Gruber's Markdown Syntax page (this is the page rendered) with all the HTML and some more complex stuff removed. (if you want to support the full entirety of Markdown we'd recommend just using the full page instead of this shortened version)
+
+Full credits for that idea go to this StackOverflow question.
+
+License
+This repo is licensed under the MIT License, Copyright © 2017 Space Program Inc.
